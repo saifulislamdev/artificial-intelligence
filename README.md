@@ -1,14 +1,16 @@
 # Artificial Intelligence
 
+Coursework for CSc 44800 - Artificial Intelligence at The City College of New York Spring 2022.
+
 ## `equation_of_a_slime.ipynb`
 
-This assignment covers Linear Regression, Support Vector Regression, Cross Validation, and Polynomial Regression
+This assignment covers Linear Regression, Support Vector Regression, Cross Validation, and Polynomial Regression.
 
 ## `judging_flowers.ipynb`
 
-This assignment coverse Logistic Regression, Support Vector Classifier, Neural Network (MLP Classifier), K Nearest Neighbors Classifier with Iris dataset.
+This assignment covers Logistic Regression, Support Vector Classifier, Neural Network (MLP Classifier), and K Nearest Neighbors Classifier with Iris dataset.
 
-I also experimented with different options for the Neural Network.
+In this assignment, I also experiment with different options for the Neural Network.
 
 ## `example_notebook.ipynb`
 
